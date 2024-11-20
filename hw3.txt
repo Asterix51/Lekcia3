@@ -1,5 +1,5 @@
 riadok 1
 riadok 2
-int a=1+2
+int a=1+2+3
 riadok 4
 riadok 5
