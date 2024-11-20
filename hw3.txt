@@ -1,0 +1,5 @@
+riadok 1
+riadok 2
+int a=1+2
+riadok 4
+riadok 5
